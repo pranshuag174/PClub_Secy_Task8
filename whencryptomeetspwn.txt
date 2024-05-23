@@ -1,0 +1,12 @@
+What happens when crypto meets pwn lets find out.
+
+https://drive.google.com/file/d/1j1OXxKFd40hMLCxL19jRXcwIroVRhiRT/view?usp=sharing
+
+https://en.wikipedia.org/wiki/SHA-1
+
+nc 74.225.254.195 2568
+
+* Beware of Big Sha1 calculating function, its just there because Ubuntu dont provide 32bit openssl libraries. dont try to reverse its madness.* 
+assume it same as SHA1 function in openssl/sha1.h .
+
+https://youtu.be/4cBueW9F2o4?si=Gd22OiprsFHYNt6n
